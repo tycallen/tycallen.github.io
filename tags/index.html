@@ -16,7 +16,7 @@
 
 <html class="theme-next muse use-motion" lang="zh-Hans">
 <head>
-  <meta charset="UTF-8"/>
+  <!-- hexo-inject:begin --><!-- hexo-inject:end --><meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
 <meta name="theme-color" content="#222">
@@ -179,7 +179,7 @@
       .logo-line-after i { right: initial; }
     }
   </style>
-</noscript>
+</noscript><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 
 </head>
 
@@ -190,7 +190,7 @@
     
   
 
-  <div class="container sidebar-position-left page-post-detail">
+  <!-- hexo-inject:begin --><!-- hexo-inject:end --><div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -235,6 +235,14 @@
         
         
           
+          <li class="menu-item menu-item-about">
+    <a href="/about/" rel="section">
+      <i class="menu-item-icon fa fa-fw fa-user"></i> <br />About</a>
+  </li>
+        
+        
+        
+          
           <li class="menu-item menu-item-tags menu-item-active">
     <a href="/tags/" rel="section">
       <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />Tags</a>
@@ -257,6 +265,9 @@
     
 
     
+    
+      
+      
     
       
       
@@ -327,10 +338,26 @@ color="99,184,255" opacity='0.5' zIndex="-2" count="99" src="//cdn.bootcss.com/c
             <div class="tag-cloud-title">
                 
                 
-                No tags
+                  
+                    
+                  
+                
+                  
+                    
+                  
+                
+                  
+                    
+                  
+                
+                  
+                    
+                  
+                
+                4 tags in total
             </div>
             <div class="tag-cloud-tags">
-              
+              <a href="/tags/CV/" style="font-size: 12px; color: #ccc">CV</a> <a href="/tags/DL/" style="font-size: 12px; color: #ccc">DL</a> <a href="/tags/LeNet/" style="font-size: 12px; color: #ccc">LeNet</a> <a href="/tags/Paper/" style="font-size: 12px; color: #ccc">Paper</a>
             </div>
           </div>
         
@@ -391,7 +418,7 @@ color="99,184,255" opacity='0.5' zIndex="-2" count="99" src="//cdn.bootcss.com/c
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">1</span>
+                    <span class="site-state-item-count">2</span>
                     <span class="site-state-item-name">posts</span>
                   </a>
                 </div>
@@ -399,6 +426,25 @@ color="99,184,255" opacity='0.5' zIndex="-2" count="99" src="//cdn.bootcss.com/c
 
               
 
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">4</span>
+                    <span class="site-state-item-name">tags</span>
+                  </a>
+                </div>
               
             </nav>
           
@@ -411,22 +457,17 @@ color="99,184,255" opacity='0.5' zIndex="-2" count="99" src="//cdn.bootcss.com/c
                 <span class="links-of-author-item">
                   <a href="https://github.com/tycallen" target="_blank" title="GitHub"><i class="fa fa-fw fa-github"></i>GitHub</a>
                   
-                </span>
+                </span><br/>
               
                 <span class="links-of-author-item">
                   <a href="mailto:tyc.allen@gmail.com" target="_blank" title="E-Mail"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
                   
-                </span>
+                </span><br/>
               
                 <span class="links-of-author-item">
                   <a href="http://weibo.com/pojunallen" target="_blank" title="微博"><i class="fa fa-fw fa-weibo"></i>微博</a>
                   
-                </span>
-              
-                <span class="links-of-author-item">
-                  <a href="http://www.zhihu.com/people/tang-yu-chen-77" target="_blank" title="知乎"><i class="fa fa-fw fa-globe"></i>知乎</a>
-                  
-                </span>
+                </span><br/>
               
             </div>
           
@@ -473,7 +514,7 @@ color="99,184,255" opacity='0.5' zIndex="-2" count="99" src="//cdn.bootcss.com/c
 
 
 
-  <div class="powered-by">Powered by <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> v3.7.1</div>
+  <div class="powered-by">Powered by <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a></div>
 
 
 
@@ -481,7 +522,7 @@ color="99,184,255" opacity='0.5' zIndex="-2" count="99" src="//cdn.bootcss.com/c
 
 
 
-  <div class="theme-info">Theme &mdash; <a class="theme-link" target="_blank" href="https://theme-next.org">NexT.Muse</a> v6.3.0</div>
+  <div class="theme-info">Theme &mdash; <a class="theme-link" target="_blank" href="https://theme-next.org">NexT.Muse</a></div>
 
 
 
@@ -728,7 +769,24 @@ color="99,184,255" opacity='0.5' zIndex="-2" count="99" src="//cdn.bootcss.com/c
         showTime(Counter);
       }
     });
-  </script>
+  </script><!-- hexo-inject:begin --><!-- Begin: Injected MathJax -->
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config("");
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i=0; i < all.length; i += 1) {
+      all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+</script>
+
+<script type="text/javascript" src="custom_mathjax_source">
+</script>
+<!-- End: Injected MathJax -->
+<!-- hexo-inject:end -->
 
 
 
@@ -737,6 +795,13 @@ color="99,184,255" opacity='0.5' zIndex="-2" count="99" src="//cdn.bootcss.com/c
   
 
   
+  
+
+  
+  
+
+  
+
 
   
   
