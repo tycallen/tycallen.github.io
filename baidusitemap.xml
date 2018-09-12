@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://muyaan.com/archives/88359d8c.html</loc>
-    <lastmod>2018-09-12T02:03:57.941Z</lastmod>
+    <lastmod>2018-09-12T03:33:35.646Z</lastmod>
     <data>
         <display>
         <title>Multi-attribute learning for pedestrian attribute recognition in surveillance scenarios</title>
@@ -27,129 +27,8 @@
 
     
   <url>
-    <loc>http://muyaan.com/archives/380c6fd1.html</loc>
-    <lastmod>2018-09-07T08:28:51.939Z</lastmod>
-    <data>
-        <display>
-        <title>Improving Person Re-identification by Attribute and Identity Learning</title>
-        <pubTime>2018-09-07T08:20:16.000Z</pubTime>
-        
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Pedestrian attribute</tag>
-         
-        <tag>CV</tag>
-         
-        <tag>re-ID</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/5261ca.html</loc>
-    <lastmod>2018-09-06T07:46:35.851Z</lastmod>
-    <data>
-        <display>
-        <title>Cross Entropy Loss —— 交叉熵Loss</title>
-        <pubTime>2018-09-02T09:46:26.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Loss function</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/ae74f67c.html</loc>
-    <lastmod>2018-09-06T07:29:24.226Z</lastmod>
-    <data>
-        <display>
-        <title>Aligned ReID</title>
-        <pubTime>2018-09-06T07:16:03.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Convolutional Network</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>re-ID</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/a2cff214.html</loc>
-    <lastmod>2018-09-05T01:53:10.779Z</lastmod>
-    <data>
-        <display>
-        <title>GAN 生成式对抗网络</title>
-        <pubTime>2018-09-05T01:43:54.000Z</pubTime>
-        
-        <tag>Deep Learning</tag>
-         
-        <tag>Convolutional Network</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Adversarial Networks</tag>
-         
-        <tag>GAN</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/af6cce95.html</loc>
-    <lastmod>2018-09-03T09:20:31.757Z</lastmod>
-    <data>
-        <display>
-        <title>MTCNN</title>
-        <pubTime>2018-09-03T08:59:11.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Face Detection</tag>
-         
-        <tag>Face Alignment</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://muyaan.com/archives/36059c58.html</loc>
-    <lastmod>2018-08-29T12:40:22.428Z</lastmod>
+    <lastmod>2018-09-12T03:22:25.049Z</lastmod>
     <data>
         <display>
         <title>Person Re-identification: Past, Present and Future</title>
@@ -169,18 +48,20 @@
 
     
   <url>
-    <loc>http://muyaan.com/archives/49cd3ce.html</loc>
-    <lastmod>2018-08-21T10:32:27.538Z</lastmod>
+    <loc>http://muyaan.com/archives/5beb21d0.html</loc>
+    <lastmod>2018-09-12T03:22:25.045Z</lastmod>
     <data>
         <display>
-        <title>Batch Normalization</title>
-        <pubTime>2018-08-21T07:32:47.000Z</pubTime>
+        <title>R-CNN</title>
+        <pubTime>2018-07-26T03:11:09.000Z</pubTime>
         
+        <tag>Computer Vision</tag>
+         
         <tag>Deep Learning</tag>
          
         <tag>Paper</tag>
          
-        <tag>BN</tag>
+        <tag>Object Detection</tag>
          
          
            
@@ -190,24 +71,24 @@
 
     
   <url>
-    <loc>http://muyaan.com/archives/d37bc1de.html</loc>
-    <lastmod>2018-08-16T11:28:25.991Z</lastmod>
+    <loc>http://muyaan.com/archives/623fcf69.html</loc>
+    <lastmod>2018-09-12T03:22:25.042Z</lastmod>
     <data>
         <display>
-        <title>GoogLeNet v1</title>
-        <pubTime>2018-08-16T09:31:18.000Z</pubTime>
+        <title>LeNet</title>
+        <pubTime>2018-07-21T11:55:18.000Z</pubTime>
         
         <tag>Computer Vision</tag>
          
         <tag>Deep Learning</tag>
          
+        <tag>Convolutional Network</tag>
+         
         <tag>Paper</tag>
          
-        <tag>Image Classification</tag>
+        <tag>Image Recognition</tag>
          
-        <tag>GoogLeNet</tag>
-         
-        <tag>GoogLeNet v1</tag>
+        <tag>LeNet</tag>
          
          
            
@@ -218,7 +99,7 @@
     
   <url>
     <loc>http://muyaan.com/archives/423509a9.html</loc>
-    <lastmod>2018-08-13T11:47:10.243Z</lastmod>
+    <lastmod>2018-09-12T03:22:25.035Z</lastmod>
     <data>
         <display>
         <title>YOLOv2 and YOLO9000</title>
@@ -246,8 +127,206 @@
 
     
   <url>
+    <loc>http://muyaan.com/archives/562809c1.html</loc>
+    <lastmod>2018-09-12T03:22:25.034Z</lastmod>
+    <data>
+        <display>
+        <title>YOLO</title>
+        <pubTime>2018-08-03T08:33:08.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>YOLO</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/719cc2e5.html</loc>
+    <lastmod>2018-09-12T03:22:25.033Z</lastmod>
+    <data>
+        <display>
+        <title>SSD</title>
+        <pubTime>2018-08-07T02:11:28.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>SSD</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/8504aa6c.html</loc>
+    <lastmod>2018-09-12T03:22:25.031Z</lastmod>
+    <data>
+        <display>
+        <title>RetinaNet</title>
+        <pubTime>2018-08-06T01:54:08.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>RetinaNet</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/fc798de3.html</loc>
+    <lastmod>2018-09-12T03:22:25.029Z</lastmod>
+    <data>
+        <display>
+        <title>Faster R-CNN</title>
+        <pubTime>2018-08-01T12:27:57.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>Faster R-CNN</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/b2e32499.html</loc>
+    <lastmod>2018-09-12T03:22:25.028Z</lastmod>
+    <data>
+        <display>
+        <title>VGGNet</title>
+        <pubTime>2018-08-09T07:33:48.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Image Classification</tag>
+         
+        <tag>VGGNet</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/d37bc1de.html</loc>
+    <lastmod>2018-09-12T03:22:25.027Z</lastmod>
+    <data>
+        <display>
+        <title>GoogLeNet v1</title>
+        <pubTime>2018-08-16T09:31:18.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Image Classification</tag>
+         
+        <tag>GoogLeNet</tag>
+         
+        <tag>GoogLeNet v1</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/49cd3ce.html</loc>
+    <lastmod>2018-09-12T03:22:25.026Z</lastmod>
+    <data>
+        <display>
+        <title>Batch Normalization</title>
+        <pubTime>2018-08-21T07:32:47.000Z</pubTime>
+        
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>BN</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/9bab3bc6.html</loc>
+    <lastmod>2018-09-12T03:22:25.024Z</lastmod>
+    <data>
+        <display>
+        <title>Fast R-CNN</title>
+        <pubTime>2018-07-28T03:29:52.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>Fast R-CNN</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/archives/2c51a51a.html</loc>
-    <lastmod>2018-08-13T11:47:03.494Z</lastmod>
+    <lastmod>2018-09-12T03:22:25.022Z</lastmod>
     <data>
         <display>
         <title>YOLOv3</title>
@@ -273,135 +352,8 @@
 
     
   <url>
-    <loc>http://muyaan.com/archives/b2e32499.html</loc>
-    <lastmod>2018-08-09T07:47:01.905Z</lastmod>
-    <data>
-        <display>
-        <title>VGGNet</title>
-        <pubTime>2018-08-09T07:33:48.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Image Classification</tag>
-         
-        <tag>VGGNet</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/719cc2e5.html</loc>
-    <lastmod>2018-08-07T06:31:16.247Z</lastmod>
-    <data>
-        <display>
-        <title>SSD</title>
-        <pubTime>2018-08-07T02:11:28.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Object Detection</tag>
-         
-        <tag>SSD</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/8504aa6c.html</loc>
-    <lastmod>2018-08-06T02:37:03.899Z</lastmod>
-    <data>
-        <display>
-        <title>RetinaNet</title>
-        <pubTime>2018-08-06T01:54:08.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Object Detection</tag>
-         
-        <tag>RetinaNet</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/562809c1.html</loc>
-    <lastmod>2018-08-04T16:35:23.651Z</lastmod>
-    <data>
-        <display>
-        <title>YOLO</title>
-        <pubTime>2018-08-03T08:33:08.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Object Detection</tag>
-         
-        <tag>YOLO</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/623fcf69.html</loc>
-    <lastmod>2018-08-03T09:12:56.984Z</lastmod>
-    <data>
-        <display>
-        <title>LeNet</title>
-        <pubTime>2018-07-21T11:55:18.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Convolutional Network</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Image Recognition</tag>
-         
-        <tag>LeNet</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://muyaan.com/archives/ed3a751d.html</loc>
-    <lastmod>2018-08-03T09:11:07.845Z</lastmod>
+    <lastmod>2018-09-12T03:22:25.020Z</lastmod>
     <data>
         <display>
         <title>ResNet</title>
@@ -427,20 +379,22 @@
 
     
   <url>
-    <loc>http://muyaan.com/archives/5beb21d0.html</loc>
-    <lastmod>2018-08-03T09:09:32.756Z</lastmod>
+    <loc>http://muyaan.com/archives/380c6fd1.html</loc>
+    <lastmod>2018-09-12T03:22:25.019Z</lastmod>
     <data>
         <display>
-        <title>R-CNN</title>
-        <pubTime>2018-07-26T03:11:09.000Z</pubTime>
+        <title>Improving Person Re-identification by Attribute and Identity Learning</title>
+        <pubTime>2018-09-07T08:20:16.000Z</pubTime>
         
-        <tag>Computer Vision</tag>
-         
         <tag>Deep Learning</tag>
          
         <tag>Paper</tag>
          
-        <tag>Object Detection</tag>
+        <tag>Pedestrian attribute</tag>
+         
+        <tag>CV</tag>
+         
+        <tag>re-ID</tag>
          
          
            
@@ -448,61 +402,10 @@
     </data>
     </url>
 
-    
-  <url>
-    <loc>http://muyaan.com/archives/9bab3bc6.html</loc>
-    <lastmod>2018-08-03T09:08:12.397Z</lastmod>
-    <data>
-        <display>
-        <title>Fast R-CNN</title>
-        <pubTime>2018-07-28T03:29:52.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Object Detection</tag>
-         
-        <tag>Fast R-CNN</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/archives/fc798de3.html</loc>
-    <lastmod>2018-08-03T09:07:12.648Z</lastmod>
-    <data>
-        <display>
-        <title>Faster R-CNN</title>
-        <pubTime>2018-08-01T12:27:57.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Object Detection</tag>
-         
-        <tag>Faster R-CNN</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
     
   <url>
     <loc>http://muyaan.com/archives/659f8a0e.html</loc>
-    <lastmod>2018-07-22T03:55:39.415Z</lastmod>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     <data>
         <display>
         <title>Hello World Again</title>
@@ -516,6 +419,103 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://muyaan.com/archives/ae74f67c.html</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Aligned ReID</title>
+        <pubTime>2018-09-06T07:16:03.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Convolutional Network</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>re-ID</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/af6cce95.html</loc>
+    <lastmod>2018-09-12T03:22:25.014Z</lastmod>
+    <data>
+        <display>
+        <title>MTCNN</title>
+        <pubTime>2018-09-03T08:59:11.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Face Detection</tag>
+         
+        <tag>Face Alignment</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/a2cff214.html</loc>
+    <lastmod>2018-09-12T03:22:25.012Z</lastmod>
+    <data>
+        <display>
+        <title>GAN 生成式对抗网络</title>
+        <pubTime>2018-09-05T01:43:54.000Z</pubTime>
+        
+        <tag>Deep Learning</tag>
+         
+        <tag>Convolutional Network</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Adversarial Networks</tag>
+         
+        <tag>GAN</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/archives/5261ca.html</loc>
+    <lastmod>2018-09-12T03:22:25.010Z</lastmod>
+    <data>
+        <display>
+        <title>Cross Entropy Loss —— 交叉熵Loss</title>
+        <pubTime>2018-09-02T09:46:26.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Loss function</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
     
     
 </urlset>
