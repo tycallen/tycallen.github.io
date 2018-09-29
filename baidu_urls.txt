@@ -1,1 +1,1 @@
-http://muyaan.com/2018/09/28/深度学习CV方向技能树/
+http://muyaan.com/2018/09/29/HOG与LBP：记一次对误检测的处理/
