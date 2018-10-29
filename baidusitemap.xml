@@ -42,9 +42,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Pedestrian Detection</tag>
+         
+        <tag>Paper</tag>
          
         <tag>ResNet</tag>
          
@@ -203,9 +203,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Convolutional Network</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Convolutional Network</tag>
          
         <tag>Image Recognition</tag>
          
@@ -484,11 +484,11 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Convolutional Network</tag>
-         
         <tag>Paper</tag>
          
         <tag>ResNet</tag>
+         
+        <tag>Convolutional Network</tag>
          
         <tag>Image Recognition</tag>
          
@@ -511,11 +511,28 @@
          
         <tag>Paper</tag>
          
-        <tag>re-ID</tag>
-         
         <tag>Pedestrian attribute</tag>
          
         <tag>CV</tag>
+         
+        <tag>re-ID</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World Again</title>
+        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
+        
+        <tag>随笔</tag>
          
          
            
@@ -536,28 +553,11 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Convolutional Network</tag>
-         
         <tag>Paper</tag>
          
+        <tag>Convolutional Network</tag>
+         
         <tag>re-ID</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World Again</title>
-        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
-        
-        <tag>随笔</tag>
          
          
            
@@ -601,9 +601,9 @@
         
         <tag>Deep Learning</tag>
          
-        <tag>Convolutional Network</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Convolutional Network</tag>
          
         <tag>Adversarial Networks</tag>
          
