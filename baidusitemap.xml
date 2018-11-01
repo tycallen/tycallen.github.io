@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://muyaan.com/2018/10/16/%E8%BF%9C%E8%B7%9D%E7%A6%BB%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B%EF%BC%9A%E4%BB%8E%E6%A0%87%E6%B3%A8%E6%96%B9%E5%BC%8F%E5%87%BA%E5%8F%91/</loc>
-    <lastmod>2018-10-31T07:10:36.207Z</lastmod>
+    <lastmod>2018-11-01T02:32:45.120Z</lastmod>
     <data>
         <display>
         <title>远距离行人检测：从标注方式出发</title>
@@ -525,23 +525,6 @@
 
     
   <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World Again</title>
-        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     <data>
@@ -558,6 +541,23 @@
         <tag>Convolutional Network</tag>
          
         <tag>re-ID</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World Again</title>
+        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
+        
+        <tag>随笔</tag>
          
          
            
