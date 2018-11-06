@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://muyaan.com/2018/11/06/Pedestrian-Detection-State-of-art/</loc>
-    <lastmod>2018-11-06T08:58:01.458Z</lastmod>
+    <lastmod>2018-11-06T09:14:36.622Z</lastmod>
     <data>
         <display>
         <title>Pedestrian Detection: State of art</title>
@@ -65,9 +65,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Pedestrian Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Pedestrian Detection</tag>
          
         <tag>ResNet</tag>
          
@@ -228,9 +228,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Convolutional Network</tag>
+         
+        <tag>Paper</tag>
          
         <tag>Image Recognition</tag>
          
@@ -509,11 +509,11 @@
          
         <tag>Deep Learning</tag>
          
+        <tag>Convolutional Network</tag>
+         
         <tag>Paper</tag>
          
         <tag>ResNet</tag>
-         
-        <tag>Convolutional Network</tag>
          
         <tag>Image Recognition</tag>
          
@@ -550,23 +550,6 @@
 
     
   <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World Again</title>
-        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     <data>
@@ -578,11 +561,28 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Convolutional Network</tag>
          
+        <tag>Paper</tag>
+         
         <tag>re-ID</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World Again</title>
+        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
+        
+        <tag>随笔</tag>
          
          
            
@@ -626,9 +626,9 @@
         
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Convolutional Network</tag>
+         
+        <tag>Paper</tag>
          
         <tag>Adversarial Networks</tag>
          
