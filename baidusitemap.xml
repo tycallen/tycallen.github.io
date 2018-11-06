@@ -4,6 +4,56 @@
 
     
   <url>
+    <loc>http://muyaan.com/2018/11/06/Pedestrian-Detection-State-of-art/</loc>
+    <lastmod>2018-11-06T08:58:01.458Z</lastmod>
+    <data>
+        <display>
+        <title>Pedestrian Detection: State of art</title>
+        <pubTime>2018-11-06T08:52:16.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Pedestrian Detection</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>SSD</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/09/29/HOG%E4%B8%8ELBP%EF%BC%9A%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%AF%B9%E8%AF%AF%E6%A3%80%E6%B5%8B%E7%9A%84%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2018-11-06T08:53:42.418Z</lastmod>
+    <data>
+        <display>
+        <title>HOG与LBP：记一次对误检测的处理</title>
+        <pubTime>2018-09-29T07:08:27.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Traditional Descriptor</tag>
+         
+        <tag>HOG</tag>
+         
+        <tag>LBP</tag>
+         
+        <tag>随笔</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2018/10/16/%E8%BF%9C%E8%B7%9D%E7%A6%BB%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B%EF%BC%9A%E4%BB%8E%E6%A0%87%E6%B3%A8%E6%96%B9%E5%BC%8F%E5%87%BA%E5%8F%91/</loc>
     <lastmod>2018-11-01T02:32:45.120Z</lastmod>
     <data>
@@ -47,31 +97,6 @@
         <tag>Numpy</tag>
          
         <tag>Scipy</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/09/29/HOG%E4%B8%8ELBP%EF%BC%9A%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%AF%B9%E8%AF%AF%E6%A3%80%E6%B5%8B%E7%9A%84%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2018-09-29T07:57:46.702Z</lastmod>
-    <data>
-        <display>
-        <title>HOG与LBP：记一次对误检测的处理</title>
-        <pubTime>2018-09-29T07:08:27.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Traditional Descriptor</tag>
-         
-        <tag>HOG</tag>
-         
-        <tag>LBP</tag>
-         
-        <tag>随笔</tag>
          
          
            
@@ -525,6 +550,23 @@
 
     
   <url>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World Again</title>
+        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
+        
+        <tag>随笔</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     <data>
@@ -541,23 +583,6 @@
         <tag>Convolutional Network</tag>
          
         <tag>re-ID</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World Again</title>
-        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
-        
-        <tag>随笔</tag>
          
          
            
