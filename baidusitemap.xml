@@ -4,8 +4,62 @@
 
     
   <url>
+    <loc>http://muyaan.com/2018/10/16/%E8%BF%9C%E8%B7%9D%E7%A6%BB%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B%EF%BC%9A%E4%BB%8E%E6%A0%87%E6%B3%A8%E6%96%B9%E5%BC%8F%E5%87%BA%E5%8F%91/</loc>
+    <lastmod>2018-11-12T08:26:32.359Z</lastmod>
+    <data>
+        <display>
+        <title>远距离行人检测：从标注方式出发</title>
+        <pubTime>2018-10-16T07:55:37.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Pedestrian Detection</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Gaussian Heat Map</tag>
+         
+        <tag>ResNet</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/11/12/%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1-Realtime-Multi-Person-2D-Pose-Estimation-using-Part-Affinity-Fields/</loc>
+    <lastmod>2018-11-12T08:26:17.613Z</lastmod>
+    <data>
+        <display>
+        <title>人体姿态估计:Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields</title>
+        <pubTime>2018-11-12T08:10:19.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Pedestrian Detection</tag>
+         
+        <tag>Pose Estimation</tag>
+         
+        <tag>Key Point</tag>
+         
+        <tag>Gaussian Heat Map</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2018/11/06/Pedestrian-Detection-State-of-art/</loc>
-    <lastmod>2018-11-06T09:14:36.622Z</lastmod>
+    <lastmod>2018-11-12T08:12:31.340Z</lastmod>
     <data>
         <display>
         <title>Pedestrian Detection: State of art</title>
@@ -16,6 +70,8 @@
         <tag>Deep Learning</tag>
          
         <tag>Pedestrian Detection</tag>
+         
+        <tag>ALFNet</tag>
          
         <tag>Object Detection</tag>
          
@@ -45,31 +101,6 @@
         <tag>LBP</tag>
          
         <tag>随笔</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/10/16/%E8%BF%9C%E8%B7%9D%E7%A6%BB%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B%EF%BC%9A%E4%BB%8E%E6%A0%87%E6%B3%A8%E6%96%B9%E5%BC%8F%E5%87%BA%E5%8F%91/</loc>
-    <lastmod>2018-11-01T02:32:45.120Z</lastmod>
-    <data>
-        <display>
-        <title>远距离行人检测：从标注方式出发</title>
-        <pubTime>2018-10-16T07:55:37.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Pedestrian Detection</tag>
-         
-        <tag>ResNet</tag>
          
          
            
@@ -550,6 +581,23 @@
 
     
   <url>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World Again</title>
+        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
+        
+        <tag>随笔</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     <data>
@@ -566,23 +614,6 @@
         <tag>Paper</tag>
          
         <tag>re-ID</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World Again</title>
-        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
-        
-        <tag>随笔</tag>
          
          
            

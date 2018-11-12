@@ -1,1 +1,1 @@
-http://muyaan.com/2018/11/06/Pedestrian-Detection-State-of-art/
+http://muyaan.com/2018/11/12/人体姿态估计-Realtime-Multi-Person-2D-Pose-Estimation-using-Part-Affinity-Fields/
