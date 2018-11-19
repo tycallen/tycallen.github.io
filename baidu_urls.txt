@@ -1,1 +1,1 @@
-http://muyaan.com/2018/11/12/人体姿态估计-Realtime-Multi-Person-2D-Pose-Estimation-using-Part-Affinity-Fields/
+http://muyaan.com/2018/11/19/人群检测、密集遮挡——Repulsion-Loss-Detecting-Pedestrians-in-a-Crowd/
