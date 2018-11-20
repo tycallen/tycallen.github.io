@@ -1,1 +1,1 @@
-http://muyaan.com/2018/11/19/人群检测、密集遮挡——Repulsion-Loss-Detecting-Pedestrians-in-a-Crowd/
+http://muyaan.com/2018/11/20/DenseNet-Densely-Connected-Convolutional-Networks/
