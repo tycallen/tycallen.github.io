@@ -1,1 +1,1 @@
-http://muyaan.com/2018/11/20/DenseNet-Densely-Connected-Convolutional-Networks/
+http://muyaan.com/2018/12/08/语义分割-DeepLabv3/

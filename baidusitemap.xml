@@ -4,6 +4,35 @@
 
     
   <url>
+    <loc>http://muyaan.com/2018/12/08/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3/</loc>
+    <lastmod>2018-12-08T09:45:05.869Z</lastmod>
+    <data>
+        <display>
+        <title>语义分割:DeepLabv3+</title>
+        <pubTime>2018-12-08T09:43:18.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Semantic segmentation</tag>
+         
+        <tag>spatial pyramid pooling</tag>
+         
+        <tag>encoder-decoder</tag>
+         
+        <tag>depthwise separable convolution</tag>
+         
+        <tag>Xception</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2018/11/20/DenseNet-Densely-Connected-Convolutional-Networks/</loc>
     <lastmod>2018-11-20T02:43:03.638Z</lastmod>
     <data>
