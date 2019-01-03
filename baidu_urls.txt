@@ -1,1 +1,1 @@
-http://muyaan.com/2018/12/18/语义分割-DeepLabv3-1/
+http://muyaan.com/2019/01/03/ShuffleNet-An-Extremely-Efficient-Convolutional-Neural-Network-for-Mobile-Devices/
