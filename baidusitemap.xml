@@ -4,6 +4,54 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/01/07/SORT-SIMPLE-ONLINE-AND-REALTIME-TRACKING/</loc>
+    <lastmod>2019-01-07T01:51:15.679Z</lastmod>
+    <data>
+        <display>
+        <title>SORT:SIMPLE ONLINE AND REALTIME TRACKING</title>
+        <pubTime>2019-01-07T01:48:25.000Z</pubTime>
+        
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>CV</tag>
+         
+        <tag>Multiple Object Tracking</tag>
+         
+        <tag>Data Association</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/09/14/SIMPLE-ONLINE-AND-REALTIME-TRACKING-WITH-A-DEEP-ASSOCIATION-METRIC/</loc>
+    <lastmod>2019-01-07T01:49:31.671Z</lastmod>
+    <data>
+        <display>
+        <title>SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC</title>
+        <pubTime>2018-09-14T11:20:19.000Z</pubTime>
+        
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>CV</tag>
+         
+        <tag>Multiple Object Tracking</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/01/03/ShuffleNet-An-Extremely-Efficient-Convolutional-Neural-Network-for-Mobile-Devices/</loc>
     <lastmod>2019-01-03T11:19:29.137Z</lastmod>
     <data>
@@ -278,29 +326,6 @@
         <tag>Deep Learning</tag>
          
         <tag>随笔</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/09/14/SIMPLE-ONLINE-AND-REALTIME-TRACKING-WITH-A-DEEP-ASSOCIATION-METRIC/</loc>
-    <lastmod>2018-09-14T11:40:11.222Z</lastmod>
-    <data>
-        <display>
-        <title>SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC</title>
-        <pubTime>2018-09-14T11:20:19.000Z</pubTime>
-        
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>CV</tag>
-         
-        <tag>Tracking</tag>
          
          
            
