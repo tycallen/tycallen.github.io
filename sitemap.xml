@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://muyaan.com/2019/01/16/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation/</loc>
+    
+    <lastmod>2019-01-16T08:28:27.777Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2018/12/18/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3-1/</loc>
+    
+    <lastmod>2019-01-16T08:28:01.511Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2018/12/08/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3/</loc>
+    
+    <lastmod>2019-01-16T08:27:59.424Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://muyaan.com/2019/01/07/SORT-SIMPLE-ONLINE-AND-REALTIME-TRACKING/</loc>
     
     <lastmod>2019-01-07T01:51:15.679Z</lastmod>
@@ -19,20 +40,6 @@
     <loc>http://muyaan.com/2019/01/03/ShuffleNet-An-Extremely-Efficient-Convolutional-Neural-Network-for-Mobile-Devices/</loc>
     
     <lastmod>2019-01-03T11:19:29.137Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2018/12/18/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3-1/</loc>
-    
-    <lastmod>2018-12-18T02:45:23.530Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2018/12/08/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3/</loc>
-    
-    <lastmod>2018-12-08T10:11:11.901Z</lastmod>
     
   </url>
   

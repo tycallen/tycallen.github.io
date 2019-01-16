@@ -4,6 +4,85 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/01/16/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation/</loc>
+    <lastmod>2019-01-16T08:28:27.777Z</lastmod>
+    <data>
+        <display>
+        <title>语义分割 U-Net: Convolutional Networks for Biomedical Image Segmentation</title>
+        <pubTime>2019-01-16T08:26:39.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Image segmentation</tag>
+         
+        <tag>UNet</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/12/18/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3-1/</loc>
+    <lastmod>2019-01-16T08:28:01.511Z</lastmod>
+    <data>
+        <display>
+        <title>语义分割:DeepLabv3</title>
+        <pubTime>2018-12-18T02:37:59.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Image segmentation</tag>
+         
+        <tag>spatial pyramid pooling</tag>
+         
+        <tag>encoder-decoder</tag>
+         
+        <tag>depthwise separable convolution</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/12/08/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3/</loc>
+    <lastmod>2019-01-16T08:27:59.424Z</lastmod>
+    <data>
+        <display>
+        <title>语义分割:DeepLabv3+</title>
+        <pubTime>2018-12-08T09:43:18.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Image segmentation</tag>
+         
+        <tag>spatial pyramid pooling</tag>
+         
+        <tag>encoder-decoder</tag>
+         
+        <tag>depthwise separable convolution</tag>
+         
+        <tag>Xception</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/01/07/SORT-SIMPLE-ONLINE-AND-REALTIME-TRACKING/</loc>
     <lastmod>2019-01-07T01:51:15.679Z</lastmod>
     <data>
@@ -70,62 +149,6 @@
         <tag>group pointwise convolution</tag>
          
         <tag>channel shuffle</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/12/18/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3-1/</loc>
-    <lastmod>2018-12-18T02:45:23.530Z</lastmod>
-    <data>
-        <display>
-        <title>语义分割:DeepLabv3</title>
-        <pubTime>2018-12-18T02:37:59.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Semantic segmentation</tag>
-         
-        <tag>spatial pyramid pooling</tag>
-         
-        <tag>encoder-decoder</tag>
-         
-        <tag>depthwise separable convolution</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/12/08/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-DeepLabv3/</loc>
-    <lastmod>2018-12-08T10:11:11.901Z</lastmod>
-    <data>
-        <display>
-        <title>语义分割:DeepLabv3+</title>
-        <pubTime>2018-12-08T09:43:18.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Semantic segmentation</tag>
-         
-        <tag>spatial pyramid pooling</tag>
-         
-        <tag>encoder-decoder</tag>
-         
-        <tag>depthwise separable convolution</tag>
-         
-        <tag>Xception</tag>
          
          
            
