@@ -4,6 +4,35 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/02/04/%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E4%B8%8E%E8%BF%BD%E8%B8%AA-Simple-Baselines-for-Human-Pose-Estimation-and-Tracking/</loc>
+    <lastmod>2019-02-04T10:15:47.044Z</lastmod>
+    <data>
+        <display>
+        <title>姿态估计与追踪: Simple Baselines for Human Pose Estimation and Tracking</title>
+        <pubTime>2019-02-04T10:11:28.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Pose Estimation</tag>
+         
+        <tag>Key Point</tag>
+         
+        <tag>Gaussian Heat Map</tag>
+         
+        <tag>Pose Tracking</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/02/01/PyCUDA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2019-02-01T02:25:30.289Z</lastmod>
     <data>
@@ -436,9 +465,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Paper</tag>
          
          
            
@@ -486,9 +515,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Paper</tag>
          
         <tag>YOLO</tag>
          
@@ -515,9 +544,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Paper</tag>
          
         <tag>YOLO</tag>
          
@@ -540,9 +569,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Paper</tag>
          
         <tag>SSD</tag>
          
@@ -565,9 +594,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Paper</tag>
          
         <tag>RetinaNet</tag>
          
@@ -590,9 +619,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Paper</tag>
          
         <tag>Faster R-CNN</tag>
          
@@ -688,9 +717,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Paper</tag>
          
         <tag>Fast R-CNN</tag>
          
@@ -713,9 +742,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Paper</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Paper</tag>
          
         <tag>YOLO</tag>
          
@@ -744,9 +773,9 @@
          
         <tag>Paper</tag>
          
-        <tag>Image Recognition</tag>
-         
         <tag>ResNet</tag>
+         
+        <tag>Image Recognition</tag>
          
          
            
