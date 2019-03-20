@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://muyaan.com/2019/03/20/CVPR2019-IoU%E7%9B%B4%E6%8E%A5%E4%BD%9C%E4%B8%BALoss%EF%BC%9A-Generalized-Intersection-over-Union-A-Metric-and-A-Loss-for-Bounding-Box-Regression/</loc>
+    
+    <lastmod>2019-03-20T08:51:10.253Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://muyaan.com/2019/03/11/%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E4%B8%8E%E8%BF%BD%E8%B8%AA-HRNet-Deep-High-Resolution-Representation-Learning-for-Human-Pose-Estimation/</loc>
     
     <lastmod>2019-03-11T10:37:31.454Z</lastmod>
@@ -233,14 +240,14 @@
   </url>
   
   <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
     
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     

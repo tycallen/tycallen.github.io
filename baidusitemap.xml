@@ -4,6 +4,33 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/03/20/CVPR2019-IoU%E7%9B%B4%E6%8E%A5%E4%BD%9C%E4%B8%BALoss%EF%BC%9A-Generalized-Intersection-over-Union-A-Metric-and-A-Loss-for-Bounding-Box-Regression/</loc>
+    <lastmod>2019-03-20T08:51:10.253Z</lastmod>
+    <data>
+        <display>
+        <title>CVPR2019 IoU直接作为Loss： Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression</title>
+        <pubTime>2019-03-20T08:42:49.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>IoU</tag>
+         
+        <tag>GIoU</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/03/11/%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E4%B8%8E%E8%BF%BD%E8%B8%AA-HRNet-Deep-High-Resolution-Representation-Learning-for-Human-Pose-Estimation/</loc>
     <lastmod>2019-03-11T10:37:31.454Z</lastmod>
     <data>
@@ -15,9 +42,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Pedestrian Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Pedestrian Detection</tag>
          
         <tag>Human Pose Estimation</tag>
          
@@ -296,9 +323,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Pedestrian Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Pedestrian Detection</tag>
          
         <tag>Gaussian Heat Map</tag>
          
@@ -350,9 +377,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Pedestrian Detection</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Pedestrian Detection</tag>
          
         <tag>ALFNet</tag>
          
@@ -494,9 +521,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
          
          
            
@@ -517,9 +544,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Convolutional Network</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Convolutional Network</tag>
          
         <tag>Image Recognition</tag>
          
@@ -544,9 +571,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>YOLO</tag>
          
@@ -573,9 +600,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>YOLO</tag>
          
@@ -598,9 +625,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>SSD</tag>
          
@@ -623,9 +650,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>RetinaNet</tag>
          
@@ -648,9 +675,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>Faster R-CNN</tag>
          
@@ -746,9 +773,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>Fast R-CNN</tag>
          
@@ -771,9 +798,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>YOLO</tag>
          
@@ -798,9 +825,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Convolutional Network</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Convolutional Network</tag>
          
         <tag>ResNet</tag>
          
@@ -839,23 +866,6 @@
 
     
   <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World Again</title>
-        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     <data>
@@ -867,11 +877,28 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Convolutional Network</tag>
-         
         <tag>Paper</tag>
          
+        <tag>Convolutional Network</tag>
+         
         <tag>re-ID</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World Again</title>
+        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
+        
+        <tag>随笔</tag>
          
          
            
@@ -915,9 +942,9 @@
         
         <tag>Deep Learning</tag>
          
-        <tag>Convolutional Network</tag>
-         
         <tag>Paper</tag>
+         
+        <tag>Convolutional Network</tag>
          
         <tag>Adversarial Networks</tag>
          
