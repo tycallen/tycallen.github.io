@@ -1,1 +1,1 @@
-http://muyaan.com/2019/03/20/CVPR2019-IoU直接作为Loss：-Generalized-Intersection-over-Union-A-Metric-and-A-Loss-for-Bounding-Box-Regression/
+http://muyaan.com/2019/03/21/Mask-R-CNN/

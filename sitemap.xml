@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://muyaan.com/2019/03/21/Mask-R-CNN/</loc>
+    
+    <lastmod>2019-03-21T06:26:01.598Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://muyaan.com/2019/03/20/CVPR2019-IoU%E7%9B%B4%E6%8E%A5%E4%BD%9C%E4%B8%BALoss%EF%BC%9A-Generalized-Intersection-over-Union-A-Metric-and-A-Loss-for-Bounding-Box-Regression/</loc>
     
     <lastmod>2019-03-20T08:51:10.253Z</lastmod>
