@@ -4,6 +4,33 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/03/24/CVPR-2019-Mask-Scoring-R-CNN/</loc>
+    <lastmod>2019-03-24T04:34:34.921Z</lastmod>
+    <data>
+        <display>
+        <title>CVPR 2019: Mask Scoring R-CNN</title>
+        <pubTime>2019-03-24T04:28:56.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Mask Scoring R-CNN</tag>
+         
+        <tag>Instance segmentation</tag>
+         
+        <tag>Mask R-CNN</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/03/21/Mask-R-CNN/</loc>
     <lastmod>2019-03-21T06:26:01.598Z</lastmod>
     <data>
@@ -17,9 +44,9 @@
          
         <tag>Paper</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Mask R-CNN</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>Human Pose Estimation</tag>
          
