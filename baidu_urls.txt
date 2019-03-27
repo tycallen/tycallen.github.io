@@ -1,1 +1,1 @@
-http://muyaan.com/2019/03/24/CVPR-2019-Mask-Scoring-R-CNN/
+http://muyaan.com/2019/03/26/CVPR-2019人群分析-ADCrowdNet-An-Attention-injective-Deformable-Convolutional-Network-for-Crowd-Understanding/
