@@ -1,1 +1,1 @@
-http://muyaan.com/2019/03/27/CVPR-2019人群计数-Learning-from-Synthetic-Data-for-Crowd-Counting-in-the-Wild/
+http://muyaan.com/2019/03/31/CVPR-2018-车辆Re-ID-Viewpoint-aware-Attentive-Multi-view-Inference-for-Vehicle-Re-identification/

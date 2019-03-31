@@ -4,6 +4,33 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/03/31/CVPR-2018-%E8%BD%A6%E8%BE%86Re-ID-Viewpoint-aware-Attentive-Multi-view-Inference-for-Vehicle-Re-identification/</loc>
+    <lastmod>2019-03-31T12:12:16.609Z</lastmod>
+    <data>
+        <display>
+        <title>CVPR 2018 车辆Re-ID:Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification</title>
+        <pubTime>2019-03-31T12:09:28.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Re-ID</tag>
+         
+        <tag>Vehicle Re-ID</tag>
+         
+        <tag>VAMI</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/03/27/CVPR-2019%E4%BA%BA%E7%BE%A4%E8%AE%A1%E6%95%B0-Learning-from-Synthetic-Data-for-Crowd-Counting-in-the-Wild/</loc>
     <lastmod>2019-03-27T09:28:44.310Z</lastmod>
     <data>
@@ -1040,6 +1067,23 @@
 
     
   <url>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World Again</title>
+        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
+        
+        <tag>随笔</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     <data>
@@ -1056,23 +1100,6 @@
         <tag>Convolutional Network</tag>
          
         <tag>re-ID</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World Again</title>
-        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
-        
-        <tag>随笔</tag>
          
          
            
