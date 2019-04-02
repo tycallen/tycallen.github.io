@@ -1,1 +1,1 @@
-http://muyaan.com/2019/03/31/CVPR-2018-车辆Re-ID-Viewpoint-aware-Attentive-Multi-view-Inference-for-Vehicle-Re-identification/
+http://muyaan.com/2019/04/01/CVPR-2018-车辆Re-ID-Vehicle-Re-Identification-with-the-Space-Time-Prior/
