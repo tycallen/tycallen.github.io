@@ -1,1 +1,1 @@
-http://muyaan.com/2019/04/01/CVPR-2018-车辆Re-ID-Vehicle-Re-Identification-with-the-Space-Time-Prior/
+http://muyaan.com/2019/04/08/CVPR-2019-无监督行人Re-ID-Unsupervised-Person-re-identification-by-Soft-Multi-label-Learning/
