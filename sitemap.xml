@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://muyaan.com/2019/03/26/CVPR-2019%E4%BA%BA%E7%BE%A4%E5%88%86%E6%9E%90-ADCrowdNet-An-Attention-injective-Deformable-Convolutional-Network-for-Crowd-Understanding/</loc>
+    
+    <lastmod>2019-04-08T05:21:40.896Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://muyaan.com/2019/04/08/CVPR-2019-%E6%97%A0%E7%9B%91%E7%9D%A3%E8%A1%8C%E4%BA%BARe-ID-Unsupervised-Person-re-identification-by-Soft-Multi-label-Learning/</loc>
     
     <lastmod>2019-04-08T04:03:15.952Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://muyaan.com/2019/03/27/CVPR-2019%E4%BA%BA%E7%BE%A4%E8%AE%A1%E6%95%B0-Learning-from-Synthetic-Data-for-Crowd-Counting-in-the-Wild/</loc>
     
     <lastmod>2019-03-27T09:28:44.310Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2019/03/26/CVPR-2019%E4%BA%BA%E7%BE%A4%E5%88%86%E6%9E%90-ADCrowdNet-An-Attention-injective-Deformable-Convolutional-Network-for-Crowd-Understanding/</loc>
-    
-    <lastmod>2019-03-27T03:16:57.951Z</lastmod>
     
   </url>
   
