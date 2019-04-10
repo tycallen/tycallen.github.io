@@ -1,1 +1,1 @@
-http://muyaan.com/2019/04/09/CVPR-2019人群检测计数-PSDDN-Point-in-Box-out-Beyond-Counting-Persons-in-Crowds/
+http://muyaan.com/2019/04/10/行人re-id-利用姿态估计和分割提升性能-EANet-Enhancing-Alignment-for-Cross-Domain-Person-Re-identification/
