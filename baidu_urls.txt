@@ -1,1 +1,1 @@
-http://muyaan.com/2019/04/10/行人re-id-利用姿态估计和分割提升性能-EANet-Enhancing-Alignment-for-Cross-Domain-Person-Re-identification/
+http://muyaan.com/2019/04/11/CVPR2019-行人检测-利用分割和注意力机制提升性能-SSA-CNN-Semantic-Self-Attention-CNN-for-Pedestrian-Detection/
