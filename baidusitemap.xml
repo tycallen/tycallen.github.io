@@ -4,6 +4,31 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/04/11/CVPR2019-%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-%E6%8A%9B%E5%BC%83%E9%99%90%E4%BD%8D%E6%A1%86-CSP-High-level-Semantic-Feature-Detection-A-New-Perspective-for-Pedestrian-Detection/</loc>
+    <lastmod>2019-04-11T08:19:08.323Z</lastmod>
+    <data>
+        <display>
+        <title>CVPR2019 行人检测 抛弃限位框 CSP: High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection</title>
+        <pubTime>2019-04-11T08:18:00.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Pedestrian Detection</tag>
+         
+        <tag>CSP</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/04/11/CVPR2019-%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-%E5%88%A9%E7%94%A8%E5%88%86%E5%89%B2%E5%92%8C%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%E6%8F%90%E5%8D%87%E6%80%A7%E8%83%BD-SSA-CNN-Semantic-Self-Attention-CNN-for-Pedestrian-Detection/</loc>
     <lastmod>2019-04-11T02:03:31.834Z</lastmod>
     <data>
@@ -135,11 +160,11 @@
          
         <tag>Paper</tag>
          
-        <tag>Crowd Counting</tag>
-         
         <tag>PSDDN</tag>
          
         <tag>Crowd Detection</tag>
+         
+        <tag>Crowd Counting</tag>
          
          
            
@@ -162,11 +187,11 @@
          
         <tag>Paper</tag>
          
+        <tag>Crowd Counting</tag>
+         
         <tag>ADCrowdNet</tag>
          
         <tag>Crowd Understanding</tag>
-         
-        <tag>Crowd Counting</tag>
          
         <tag>Attention</tag>
          
@@ -272,11 +297,11 @@
          
         <tag>Paper</tag>
          
+        <tag>Crowd Counting</tag>
+         
         <tag>ADCrowdNet</tag>
          
         <tag>Crowd Understanding</tag>
-         
-        <tag>Crowd Counting</tag>
          
         <tag>SFCN</tag>
          
@@ -1202,23 +1227,6 @@
 
     
   <url>
-    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World Again</title>
-        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     <data>
@@ -1235,6 +1243,23 @@
         <tag>Convolutional Network</tag>
          
         <tag>re-ID</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/07/19/hello-world/</loc>
+    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World Again</title>
+        <pubTime>2018-07-19T02:23:34.000Z</pubTime>
+        
+        <tag>随笔</tag>
          
          
            

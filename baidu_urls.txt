@@ -1,1 +1,1 @@
-http://muyaan.com/2019/04/11/CVPR2019-行人检测-利用分割和注意力机制提升性能-SSA-CNN-Semantic-Self-Attention-CNN-for-Pedestrian-Detection/
+http://muyaan.com/2019/04/11/CVPR2019-行人检测-抛弃限位框-CSP-High-level-Semantic-Feature-Detection-A-New-Perspective-for-Pedestrian-Detection/
