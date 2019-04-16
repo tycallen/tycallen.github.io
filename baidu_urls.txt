@@ -1,1 +1,1 @@
-http://muyaan.com/2019/04/11/CVPR2019-行人检测-抛弃限位框-CSP-High-level-Semantic-Feature-Detection-A-New-Perspective-for-Pedestrian-Detection/
+http://muyaan.com/2019/04/16/CVPR-2019-领域自适应行人Re-ID-ECN-Invariance-Matters-Exemplar-Memory-for-Domain-Adaptive-Person-Re-identification/

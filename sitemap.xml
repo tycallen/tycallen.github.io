@@ -2,30 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://muyaan.com/2019/04/11/CVPR2019-%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-%E6%8A%9B%E5%BC%83%E9%99%90%E4%BD%8D%E6%A1%86-CSP-High-level-Semantic-Feature-Detection-A-New-Perspective-for-Pedestrian-Detection/</loc>
+    <loc>http://muyaan.com/2019/04/16/CVPR-2019-%E9%A2%86%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94%E8%A1%8C%E4%BA%BARe-ID-ECN-Invariance-Matters-Exemplar-Memory-for-Domain-Adaptive-Person-Re-identification/</loc>
     
-    <lastmod>2019-04-11T08:19:08.323Z</lastmod>
+    <lastmod>2019-04-16T09:35:03.643Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://muyaan.com/2019/04/11/CVPR2019-%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-%E5%88%A9%E7%94%A8%E5%88%86%E5%89%B2%E5%92%8C%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%E6%8F%90%E5%8D%87%E6%80%A7%E8%83%BD-SSA-CNN-Semantic-Self-Attention-CNN-for-Pedestrian-Detection/</loc>
+    <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
     
-    <lastmod>2019-04-11T02:03:31.834Z</lastmod>
+    <lastmod>2019-04-16T09:31:38.794Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2018/08/29/Person-Re-identification-Past-Present-and-Future/</loc>
+    
+    <lastmod>2019-04-16T09:31:34.189Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2018/09/07/Improving-Person-Re-identification-by-Attribute-and-Identity-Learning/</loc>
+    
+    <lastmod>2019-04-16T09:31:27.281Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://muyaan.com/2019/04/10/%E8%A1%8C%E4%BA%BAre-id-%E5%88%A9%E7%94%A8%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E5%92%8C%E5%88%86%E5%89%B2%E6%8F%90%E5%8D%87%E6%80%A7%E8%83%BD-EANet-Enhancing-Alignment-for-Cross-Domain-Person-Re-identification/</loc>
     
-    <lastmod>2019-04-10T03:32:47.466Z</lastmod>
+    <lastmod>2019-04-16T09:31:05.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/04/08/CVPR-2019-%E6%97%A0%E7%9B%91%E7%9D%A3%E8%A1%8C%E4%BA%BARe-ID-Unsupervised-Person-re-identification-by-Soft-Multi-label-Learning/</loc>
+    
+    <lastmod>2019-04-16T09:30:43.763Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://muyaan.com/2019/03/11/%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E4%B8%8E%E8%BF%BD%E8%B8%AA-HRNet-Deep-High-Resolution-Representation-Learning-for-Human-Pose-Estimation/</loc>
     
-    <lastmod>2019-04-10T03:27:45.665Z</lastmod>
+    <lastmod>2019-04-16T09:26:25.023Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/01/16/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation/</loc>
+    
+    <lastmod>2019-04-16T09:26:15.989Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/02/04/%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E4%B8%8E%E8%BF%BD%E8%B8%AA-Simple-Baselines-for-Human-Pose-Estimation-and-Tracking/</loc>
+    
+    <lastmod>2019-04-16T09:25:52.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2018/11/19/%E4%BA%BA%E7%BE%A4%E6%A3%80%E6%B5%8B%E3%80%81%E5%AF%86%E9%9B%86%E9%81%AE%E6%8C%A1%E2%80%94%E2%80%94Repulsion-Loss-Detecting-Pedestrians-in-a-Crowd/</loc>
+    
+    <lastmod>2019-04-16T09:25:48.846Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/04/11/CVPR2019-%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-%E6%8A%9B%E5%BC%83%E9%99%90%E4%BD%8D%E6%A1%86-CSP-High-level-Semantic-Feature-Detection-A-New-Perspective-for-Pedestrian-Detection/</loc>
+    
+    <lastmod>2019-04-16T09:25:07.236Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/04/11/CVPR2019-%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-%E5%88%A9%E7%94%A8%E5%88%86%E5%89%B2%E5%92%8C%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%E6%8F%90%E5%8D%87%E6%80%A7%E8%83%BD-SSA-CNN-Semantic-Self-Attention-CNN-for-Pedestrian-Detection/</loc>
+    
+    <lastmod>2019-04-16T09:25:02.883Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/03/25/CVPR2017-%E7%94%A8%E9%A2%9D%E5%A4%96%E7%89%B9%E5%BE%81%E6%8F%90%E5%8D%87%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-HyperLearner-What-can-help-pedestrain-detection/</loc>
+    
+    <lastmod>2019-04-16T09:24:55.068Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/03/27/CVPR-2019%E4%BA%BA%E7%BE%A4%E8%AE%A1%E6%95%B0-Learning-from-Synthetic-Data-for-Crowd-Counting-in-the-Wild/</loc>
+    
+    <lastmod>2019-04-16T09:24:24.907Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/04/09/CVPR-2019%E4%BA%BA%E7%BE%A4%E6%A3%80%E6%B5%8B%E8%AE%A1%E6%95%B0-PSDDN-Point-in-Box-out-Beyond-Counting-Persons-in-Crowds/</loc>
+    
+    <lastmod>2019-04-16T09:24:20.598Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/03/24/CVPR-2019-Mask-Scoring-R-CNN/</loc>
+    
+    <lastmod>2019-04-16T09:24:06.090Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/03/31/CVPR-2018-%E8%BD%A6%E8%BE%86Re-ID-Viewpoint-aware-Attentive-Multi-view-Inference-for-Vehicle-Re-identification/</loc>
+    
+    <lastmod>2019-04-16T09:24:02.853Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/04/01/CVPR-2018-%E8%BD%A6%E8%BE%86Re-ID-Vehicle-Re-Identification-with-the-Space-Time-Prior/</loc>
+    
+    <lastmod>2019-04-16T09:23:54.236Z</lastmod>
     
   </url>
   
@@ -37,44 +135,9 @@
   </url>
   
   <url>
-    <loc>http://muyaan.com/2019/04/09/CVPR-2019%E4%BA%BA%E7%BE%A4%E6%A3%80%E6%B5%8B%E8%AE%A1%E6%95%B0-PSDDN-Point-in-Box-out-Beyond-Counting-Persons-in-Crowds/</loc>
-    
-    <lastmod>2019-04-09T03:29:28.011Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://muyaan.com/2019/03/26/CVPR-2019%E4%BA%BA%E7%BE%A4%E5%88%86%E6%9E%90-ADCrowdNet-An-Attention-injective-Deformable-Convolutional-Network-for-Crowd-Understanding/</loc>
     
     <lastmod>2019-04-08T05:21:40.896Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2019/04/08/CVPR-2019-%E6%97%A0%E7%9B%91%E7%9D%A3%E8%A1%8C%E4%BA%BARe-ID-Unsupervised-Person-re-identification-by-Soft-Multi-label-Learning/</loc>
-    
-    <lastmod>2019-04-08T04:03:15.952Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2019/04/01/CVPR-2018-%E8%BD%A6%E8%BE%86Re-ID-Vehicle-Re-Identification-with-the-Space-Time-Prior/</loc>
-    
-    <lastmod>2019-04-01T03:27:44.448Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2019/03/31/CVPR-2018-%E8%BD%A6%E8%BE%86Re-ID-Viewpoint-aware-Attentive-Multi-view-Inference-for-Vehicle-Re-identification/</loc>
-    
-    <lastmod>2019-03-31T12:12:16.609Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2019/03/27/CVPR-2019%E4%BA%BA%E7%BE%A4%E8%AE%A1%E6%95%B0-Learning-from-Synthetic-Data-for-Crowd-Counting-in-the-Wild/</loc>
-    
-    <lastmod>2019-03-27T09:28:44.310Z</lastmod>
     
   </url>
   
@@ -86,20 +149,6 @@
   </url>
   
   <url>
-    <loc>http://muyaan.com/2019/03/25/CVPR2017-%E7%94%A8%E9%A2%9D%E5%A4%96%E7%89%B9%E5%BE%81%E6%8F%90%E5%8D%87%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-HyperLearner-What-can-help-pedestrain-detection/</loc>
-    
-    <lastmod>2019-03-25T06:39:04.661Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2019/03/24/CVPR-2019-Mask-Scoring-R-CNN/</loc>
-    
-    <lastmod>2019-03-24T04:34:34.921Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://muyaan.com/2019/03/20/CVPR2019-IoU%E7%9B%B4%E6%8E%A5%E4%BD%9C%E4%B8%BALoss%EF%BC%9A-Generalized-Intersection-over-Union-A-Metric-and-A-Loss-for-Bounding-Box-Regression/</loc>
     
     <lastmod>2019-03-20T08:51:10.253Z</lastmod>
@@ -107,23 +156,9 @@
   </url>
   
   <url>
-    <loc>http://muyaan.com/2019/02/04/%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E4%B8%8E%E8%BF%BD%E8%B8%AA-Simple-Baselines-for-Human-Pose-Estimation-and-Tracking/</loc>
-    
-    <lastmod>2019-02-04T10:15:47.044Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://muyaan.com/2019/02/01/PyCUDA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2019-02-01T02:25:30.289Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2019/01/16/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2-U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation/</loc>
-    
-    <lastmod>2019-01-16T08:28:27.777Z</lastmod>
     
   </url>
   
@@ -166,13 +201,6 @@
     <loc>http://muyaan.com/2018/11/20/DenseNet-Densely-Connected-Convolutional-Networks/</loc>
     
     <lastmod>2018-11-20T02:43:03.638Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2018/11/19/%E4%BA%BA%E7%BE%A4%E6%A3%80%E6%B5%8B%E3%80%81%E5%AF%86%E9%9B%86%E9%81%AE%E6%8C%A1%E2%80%94%E2%80%94Repulsion-Loss-Detecting-Pedestrians-in-a-Crowd/</loc>
-    
-    <lastmod>2018-11-19T06:19:46.518Z</lastmod>
     
   </url>
   
@@ -222,13 +250,6 @@
     <loc>http://muyaan.com/2018/09/11/Multi-attribute-learning-for-pedestrian-attribute-recognition-in-surveillance-scenarios/</loc>
     
     <lastmod>2018-09-13T11:40:51.302Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2018/08/29/Person-Re-identification-Past-Present-and-Future/</loc>
-    
-    <lastmod>2018-09-12T03:22:25.049Z</lastmod>
     
   </url>
   
@@ -320,20 +341,6 @@
     <loc>http://muyaan.com/2018/07/22/ResNet/</loc>
     
     <lastmod>2018-09-12T03:22:25.020Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2018/09/07/Improving-Person-Re-identification-by-Attribute-and-Identity-Learning/</loc>
-    
-    <lastmod>2018-09-12T03:22:25.019Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2018/09/06/Aligned-ReID/</loc>
-    
-    <lastmod>2018-09-12T03:22:25.017Z</lastmod>
     
   </url>
   
