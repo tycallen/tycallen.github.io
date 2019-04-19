@@ -1,1 +1,1 @@
-http://muyaan.com/2019/04/16/CVPR-2019-领域自适应行人Re-ID-ECN-Invariance-Matters-Exemplar-Memory-for-Domain-Adaptive-Person-Re-identification/
+http://muyaan.com/2019/04/19/强力基础网络-SENet-Squeeze-and-Excitation-Networks/

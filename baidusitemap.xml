@@ -4,6 +4,31 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/04/19/%E5%BC%BA%E5%8A%9B%E5%9F%BA%E7%A1%80%E7%BD%91%E7%BB%9C-SENet-Squeeze-and-Excitation-Networks/</loc>
+    <lastmod>2019-04-19T08:43:51.289Z</lastmod>
+    <data>
+        <display>
+        <title>强力基础网络 SENet: Squeeze-and-Excitation Networks</title>
+        <pubTime>2019-04-19T08:40:48.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Image Classification</tag>
+         
+        <tag>SENet</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/04/16/CVPR-2019-%E9%A2%86%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94%E8%A1%8C%E4%BA%BARe-ID-ECN-Invariance-Matters-Exemplar-Memory-for-Domain-Adaptive-Person-Re-identification/</loc>
     <lastmod>2019-04-16T09:35:03.643Z</lastmod>
     <data>
@@ -241,11 +266,11 @@
          
         <tag>Pose Estimation</tag>
          
-        <tag>Pose Tracking</tag>
-         
         <tag>Key Point</tag>
          
         <tag>Gaussian Heat Map</tag>
+         
+        <tag>Pose Tracking</tag>
          
          
            
