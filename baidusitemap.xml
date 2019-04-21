@@ -4,6 +4,89 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/04/21/ECCV2018-%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B-CornerNet-Detecting-Objects-as-Paired-Keypoints/</loc>
+    <lastmod>2019-04-21T03:28:04.261Z</lastmod>
+    <data>
+        <display>
+        <title>ECCV2018 目标检测 CornerNet:  Detecting Objects as Paired Keypoints</title>
+        <pubTime>2019-04-21T03:24:37.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>Anchor Free</tag>
+         
+        <tag>CornerNet</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2018/10/16/%E8%BF%9C%E8%B7%9D%E7%A6%BB%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B%EF%BC%9A%E4%BB%8E%E6%A0%87%E6%B3%A8%E6%96%B9%E5%BC%8F%E5%87%BA%E5%8F%91/</loc>
+    <lastmod>2019-04-21T03:27:00.186Z</lastmod>
+    <data>
+        <display>
+        <title>远距离行人检测：从标注方式出发</title>
+        <pubTime>2018-10-16T07:55:37.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Pedestrian Detection</tag>
+         
+        <tag>Anchor Free</tag>
+         
+        <tag>Gaussian Heat Map</tag>
+         
+        <tag>TLL</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2019/04/11/CVPR2019-%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-%E6%8A%9B%E5%BC%83%E9%99%90%E4%BD%8D%E6%A1%86-CSP-High-level-Semantic-Feature-Detection-A-New-Perspective-for-Pedestrian-Detection/</loc>
+    <lastmod>2019-04-21T03:26:21.743Z</lastmod>
+    <data>
+        <display>
+        <title>CVPR2019 行人检测 抛弃限位框 CSP: High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection</title>
+        <pubTime>2019-04-11T08:18:00.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Pedestrian Detection</tag>
+         
+        <tag>CSP</tag>
+         
+        <tag>Anchor Free</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/04/19/%E5%BC%BA%E5%8A%9B%E5%9F%BA%E7%A1%80%E7%BD%91%E7%BB%9C-SENet-Squeeze-and-Excitation-Networks/</loc>
     <lastmod>2019-04-19T08:43:51.289Z</lastmod>
     <data>
@@ -294,31 +377,6 @@
         <tag>Pedestrian Detection</tag>
          
         <tag>RepLoss</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://muyaan.com/2019/04/11/CVPR2019-%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B-%E6%8A%9B%E5%BC%83%E9%99%90%E4%BD%8D%E6%A1%86-CSP-High-level-Semantic-Feature-Detection-A-New-Perspective-for-Pedestrian-Detection/</loc>
-    <lastmod>2019-04-16T09:25:07.236Z</lastmod>
-    <data>
-        <display>
-        <title>CVPR2019 行人检测 抛弃限位框 CSP: High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection</title>
-        <pubTime>2019-04-11T08:18:00.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Pedestrian Detection</tag>
-         
-        <tag>CSP</tag>
          
          
            
@@ -812,33 +870,6 @@
 
     
   <url>
-    <loc>http://muyaan.com/2018/10/16/%E8%BF%9C%E8%B7%9D%E7%A6%BB%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B%EF%BC%9A%E4%BB%8E%E6%A0%87%E6%B3%A8%E6%96%B9%E5%BC%8F%E5%87%BA%E5%8F%91/</loc>
-    <lastmod>2018-11-12T08:26:32.359Z</lastmod>
-    <data>
-        <display>
-        <title>远距离行人检测：从标注方式出发</title>
-        <pubTime>2018-10-16T07:55:37.000Z</pubTime>
-        
-        <tag>Computer Vision</tag>
-         
-        <tag>Deep Learning</tag>
-         
-        <tag>Paper</tag>
-         
-        <tag>Pedestrian Detection</tag>
-         
-        <tag>Gaussian Heat Map</tag>
-         
-        <tag>ResNet</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://muyaan.com/2018/11/12/%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1-Realtime-Multi-Person-2D-Pose-Estimation-using-Part-Affinity-Fields/</loc>
     <lastmod>2018-11-12T08:26:17.613Z</lastmod>
     <data>
@@ -1308,9 +1339,9 @@
          
         <tag>Convolutional Network</tag>
          
-        <tag>ResNet</tag>
-         
         <tag>Image Recognition</tag>
+         
+        <tag>ResNet</tag>
          
          
            
