@@ -1,1 +1,1 @@
-http://muyaan.com/2019/04/21/ECCV2018-目标检测-CornerNet-Detecting-Objects-as-Paired-Keypoints/
+http://muyaan.com/2019/04/25/目标检测-超越YOLOv3-CornerNet-Lite-Efficient-Keypoint-Based-Object-Detection/

@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://muyaan.com/2019/04/25/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B-%E8%B6%85%E8%B6%8AYOLOv3-CornerNet-Lite-Efficient-Keypoint-Based-Object-Detection/</loc>
+    
+    <lastmod>2019-04-25T07:08:51.377Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://muyaan.com/2019/04/21/ECCV2018-%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B-CornerNet-Detecting-Objects-as-Paired-Keypoints/</loc>
     
-    <lastmod>2019-04-21T03:28:04.261Z</lastmod>
+    <lastmod>2019-04-25T07:07:05.805Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://muyaan.com/2019/03/26/CVPR-2019%E4%BA%BA%E7%BE%A4%E5%88%86%E6%9E%90-ADCrowdNet-An-Attention-injective-Deformable-Convolutional-Network-for-Crowd-Understanding/</loc>
+    
+    <lastmod>2019-04-23T03:46:04.605Z</lastmod>
     
   </url>
   
@@ -152,13 +166,6 @@
     <loc>http://muyaan.com/2019/03/21/Mask-R-CNN/</loc>
     
     <lastmod>2019-04-10T03:27:33.969Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/2019/03/26/CVPR-2019%E4%BA%BA%E7%BE%A4%E5%88%86%E6%9E%90-ADCrowdNet-An-Attention-injective-Deformable-Convolutional-Network-for-Crowd-Understanding/</loc>
-    
-    <lastmod>2019-04-08T05:21:40.896Z</lastmod>
     
   </url>
   
