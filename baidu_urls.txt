@@ -1,1 +1,1 @@
-http://muyaan.com/2019/04/25/目标检测-超越YOLOv3-CornerNet-Lite-Efficient-Keypoint-Based-Object-Detection/
+http://muyaan.com/2019/05/02/目标检测-47mAP-CenterNet-Keypoint-Triplets-for-Object-Detection/
