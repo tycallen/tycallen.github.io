@@ -4,6 +4,37 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/05/18/%E6%B4%BB%E4%BD%93%E6%A3%80%E6%B5%8B-%E5%88%A9%E7%94%A8%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84%E7%89%B9%E5%BE%81-A-Non-Intrusive-Method-of-Face-Liveness-Detection-Using-Specular-Reflection-and-Local-Binary-Patterns/</loc>
+    <lastmod>2019-05-18T08:08:37.861Z</lastmod>
+    <data>
+        <display>
+        <title>活体检测 利用镜面反射特征 A Non-Intrusive Method of Face Liveness Detection Using Specular Reflection and Local Binary Patterns</title>
+        <pubTime>2019-05-18T08:05:32.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>LBP</tag>
+         
+        <tag>Face Liveness Detection</tag>
+         
+        <tag>Face anti-spoofing</tag>
+         
+        <tag>SVM</tag>
+         
+        <tag>Specular Reflection</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/04/25/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B-%E8%B6%85%E8%B6%8AYOLOv3-CornerNet-Lite-Efficient-Keypoint-Based-Object-Detection/</loc>
     <lastmod>2019-05-02T04:00:18.165Z</lastmod>
     <data>
@@ -970,9 +1001,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Pedestrian Detection</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Pedestrian Detection</tag>
          
         <tag>ALFNet</tag>
          

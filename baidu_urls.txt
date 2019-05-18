@@ -1,1 +1,1 @@
-http://muyaan.com/2019/05/02/目标检测-47mAP-CenterNet-Keypoint-Triplets-for-Object-Detection/
+http://muyaan.com/2019/05/18/活体检测-利用镜面反射特征-A-Non-Intrusive-Method-of-Face-Liveness-Detection-Using-Specular-Reflection-and-Local-Binary-Patterns/
