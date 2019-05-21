@@ -1,1 +1,1 @@
-http://muyaan.com/2019/05/18/活体检测-利用镜面反射特征-A-Non-Intrusive-Method-of-Face-Liveness-Detection-Using-Specular-Reflection-and-Local-Binary-Patterns/
+http://muyaan.com/2019/05/21/活体检测-学习度量而非直接分类-Deep-Anomaly-Detection-for-Generalized-Face-Anti-Spoofing/
