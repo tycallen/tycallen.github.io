@@ -1,1 +1,1 @@
-http://muyaan.com/2019/05/21/活体检测-学习度量而非直接分类-Deep-Anomaly-Detection-for-Generalized-Face-Anti-Spoofing/
+http://muyaan.com/2019/06/04/用分割去做检测：-Segmentation-Is-All-You-Need/

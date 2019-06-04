@@ -4,8 +4,37 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/06/04/%E7%94%A8%E5%88%86%E5%89%B2%E5%8E%BB%E5%81%9A%E6%A3%80%E6%B5%8B%EF%BC%9A-Segmentation-Is-All-You-Need/</loc>
+    <lastmod>2019-06-04T11:17:37.497Z</lastmod>
+    <data>
+        <display>
+        <title>用分割去做检测： Segmentation Is All You Need</title>
+        <pubTime>2019-06-04T11:06:10.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Anchor Free</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>Segmentation</tag>
+         
+        <tag>WSMA-Seg</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/05/21/%E6%B4%BB%E4%BD%93%E6%A3%80%E6%B5%8B-%E5%AD%A6%E4%B9%A0%E5%BA%A6%E9%87%8F%E8%80%8C%E9%9D%9E%E7%9B%B4%E6%8E%A5%E5%88%86%E7%B1%BB-Deep-Anomaly-Detection-for-Generalized-Face-Anti-Spoofing/</loc>
-    <lastmod>2019-05-21T08:40:56.823Z</lastmod>
+    <lastmod>2019-05-28T06:34:05.412Z</lastmod>
     <data>
         <display>
         <title>活体检测 学习度量而非直接分类 Deep Anomaly Detection for Generalized Face Anti-Spoofing</title>
@@ -81,9 +110,9 @@
          
         <tag>Paper</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Anchor Free</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>CornerNet</tag>
          
@@ -114,9 +143,9 @@
          
         <tag>Paper</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Anchor Free</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>CornerNet</tag>
          
@@ -143,9 +172,9 @@
          
         <tag>Paper</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Anchor Free</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>CornerNet</tag>
          
