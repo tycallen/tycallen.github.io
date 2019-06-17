@@ -1,1 +1,1 @@
-http://muyaan.com/2019/06/11/CVPR2018-图像去雾-DCPDN-Densely-Connected-Pyramid-Dehazing-Network/
+http://muyaan.com/2019/06/17/行人Re-ID-MGN-Learning-Discriminative-Features-with-Multiple-Granularities-for-Person-Re-Identification/
