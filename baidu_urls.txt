@@ -1,1 +1,1 @@
-http://muyaan.com/2019/06/18/CVPR-2019领域适应目标检测Automatic-adaptation-of-object-detectors-to-new-domains-using-self-training/
+http://muyaan.com/2019/06/19/CVPR2019-Oral-高更再世-GauGAN-Semantic-Image-Synthesis-with-Spatially-Adaptive-Normalization/
