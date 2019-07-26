@@ -4,8 +4,25 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/07/21/%E4%B8%80%E5%91%A8%E5%B9%B4/</loc>
+    <lastmod>2019-07-25T08:42:20.536Z</lastmod>
+    <data>
+        <display>
+        <title>一周年</title>
+        <pubTime>2019-07-21T10:26:20.000Z</pubTime>
+        
+        <tag>随笔</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/06/19/CVPR2019-Oral-%E9%AB%98%E6%9B%B4%E5%86%8D%E4%B8%96-GauGAN-Semantic-Image-Synthesis-with-Spatially-Adaptive-Normalization/</loc>
-    <lastmod>2019-06-19T12:40:08.984Z</lastmod>
+    <lastmod>2019-07-05T02:47:31.750Z</lastmod>
     <data>
         <display>
         <title>CVPR2019 Oral 高更再世 GauGAN:Semantic Image Synthesis with Spatially-Adaptive Normalization</title>
@@ -75,9 +92,9 @@
          
         <tag>Paper</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Domain Adaption</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>Unsupervised Domain Adaptation</tag>
          
@@ -425,9 +442,9 @@
          
         <tag>Unsupervised Learning</tag>
          
-        <tag>Domain Adaption</tag>
-         
         <tag>ECN</tag>
+         
+        <tag>Domain Adaption</tag>
          
          
            
@@ -643,11 +660,11 @@
          
         <tag>Pose Estimation</tag>
          
+        <tag>Pose Tracking</tag>
+         
         <tag>Key Point</tag>
          
         <tag>Gaussian Heat Map</tag>
-         
-        <tag>Pose Tracking</tag>
          
          
            
@@ -803,11 +820,11 @@
          
         <tag>Paper</tag>
          
+        <tag>Mask R-CNN</tag>
+         
         <tag>Mask Scoring R-CNN</tag>
          
         <tag>Instance segmentation</tag>
-         
-        <tag>Mask R-CNN</tag>
          
          
            
@@ -884,9 +901,9 @@
          
         <tag>Paper</tag>
          
-        <tag>Mask R-CNN</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Mask R-CNN</tag>
          
         <tag>Pose Estimation</tag>
          
@@ -1171,9 +1188,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Pedestrian Detection</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>ALFNet</tag>
          
