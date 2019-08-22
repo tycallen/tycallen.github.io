@@ -4,6 +4,64 @@
 
     
   <url>
+    <loc>http://muyaan.com/2019/08/22/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B-Matrix-Nets-A-New-Deep-Architecture-for-Object-Detection/</loc>
+    <lastmod>2019-08-22T02:53:26.066Z</lastmod>
+    <data>
+        <display>
+        <title>目标检测 Matrix Nets: A New Deep Architecture for Object Detection</title>
+        <pubTime>2019-08-22T02:52:02.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>Object Detection</tag>
+         
+        <tag>Anchor Free</tag>
+         
+        <tag>CornerNet</tag>
+         
+        <tag>Matrix Net</tag>
+         
+        <tag>KP-xNet</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://muyaan.com/2019/08/22/%E5%88%A9%E7%94%A8%E7%81%B0%E5%BA%A6%E5%9B%BE%E6%8F%90%E5%8D%87re-id-GreyReID-A-Two-stream-Deep-Framework-with-RGB-grey-Information-for-Person-Re-identification/</loc>
+    <lastmod>2019-08-22T02:48:20.339Z</lastmod>
+    <data>
+        <display>
+        <title>利用灰度图提升re-id GreyReID:A Two-stream Deep Framework with RGB-grey Information for Person Re-identification</title>
+        <pubTime>2019-08-22T02:45:50.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Paper</tag>
+         
+        <tag>re-ID</tag>
+         
+        <tag>Person re-ID</tag>
+         
+        <tag>Grey Re-ID</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2019/07/21/%E4%B8%80%E5%91%A8%E5%B9%B4/</loc>
     <lastmod>2019-07-25T08:42:20.536Z</lastmod>
     <data>
@@ -820,11 +878,11 @@
          
         <tag>Paper</tag>
          
-        <tag>Mask R-CNN</tag>
-         
         <tag>Mask Scoring R-CNN</tag>
          
         <tag>Instance segmentation</tag>
+         
+        <tag>Mask R-CNN</tag>
          
          
            
@@ -901,9 +959,9 @@
          
         <tag>Paper</tag>
          
-        <tag>Object Detection</tag>
-         
         <tag>Mask R-CNN</tag>
+         
+        <tag>Object Detection</tag>
          
         <tag>Pose Estimation</tag>
          
@@ -1188,9 +1246,9 @@
          
         <tag>Deep Learning</tag>
          
-        <tag>Pedestrian Detection</tag>
-         
         <tag>Object Detection</tag>
+         
+        <tag>Pedestrian Detection</tag>
          
         <tag>ALFNet</tag>
          
