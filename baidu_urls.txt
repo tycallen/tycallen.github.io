@@ -1,1 +1,1 @@
-http://muyaan.com/2019/08/22/目标检测-Matrix-Nets-A-New-Deep-Architecture-for-Object-Detection/
+http://muyaan.com/2019/11/20/行人重识别-联合GAN训练-DGNet-Joint-Discriminative-and-Generative-Learning-for-Person-Re-identification/
