@@ -1,1 +1,1 @@
-http://muyaan.com/2019/11/20/行人重识别-联合GAN训练-DGNet-Joint-Discriminative-and-Generative-Learning-for-Person-Re-identification/
+http://muyaan.com/2019/11/25/行人重识别-二阶注意力-SONA-Second-order-Non-local-Attention-Networks-for-Person-Re-identiﬁcation/
