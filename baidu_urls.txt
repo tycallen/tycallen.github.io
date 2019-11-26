@@ -1,1 +1,1 @@
-http://muyaan.com/2019/11/25/行人重识别-二阶注意力-SONA-Second-order-Non-local-Attention-Networks-for-Person-Re-identiﬁcation/
+http://muyaan.com/2019/11/26/行人重识别-ABD-Net-Attentive-but-Diverse-Person-Re-Identiﬁcation/
