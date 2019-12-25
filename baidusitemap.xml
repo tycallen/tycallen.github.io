@@ -138,9 +138,9 @@
          
         <tag>Object Detection</tag>
          
-        <tag>Anchor Free</tag>
-         
         <tag>CornerNet</tag>
+         
+        <tag>Anchor Free</tag>
          
         <tag>Matrix Net</tag>
          
@@ -414,9 +414,9 @@
          
         <tag>Object Detection</tag>
          
-        <tag>Anchor Free</tag>
-         
         <tag>CornerNet</tag>
+         
+        <tag>Anchor Free</tag>
          
         <tag>CornerNet-Lite</tag>
          
@@ -447,9 +447,9 @@
          
         <tag>Object Detection</tag>
          
-        <tag>Anchor Free</tag>
-         
         <tag>CornerNet</tag>
+         
+        <tag>Anchor Free</tag>
          
         <tag>CenterNet</tag>
          
@@ -476,9 +476,9 @@
          
         <tag>Object Detection</tag>
          
-        <tag>Anchor Free</tag>
-         
         <tag>CornerNet</tag>
+         
+        <tag>Anchor Free</tag>
          
          
            
@@ -563,9 +563,9 @@
          
         <tag>Pedestrian Detection</tag>
          
-        <tag>CSP</tag>
-         
         <tag>Anchor Free</tag>
+         
+        <tag>CSP</tag>
          
          
            
