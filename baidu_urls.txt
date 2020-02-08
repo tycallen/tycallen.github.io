@@ -1,1 +1,1 @@
-http://muyaan.com/2019/12/04/行人重识别-HTCNN-Person-re-identiﬁcation-using-Hybrid-Task-Convolutional-Neural-Network-in-camera-sensor-networks/
+http://muyaan.com/2020/02/08/结合IN与BN-IBN-Net-Two-at-Once-Enhancing-Learning-and-Generalization-Capacities-via-IBN-Net/
