@@ -1,1 +1,1 @@
-http://muyaan.com/2020/02/08/结合IN与BN-IBN-Net-Two-at-Once-Enhancing-Learning-and-Generalization-Capacities-via-IBN-Net/
+http://muyaan.com/2020/02/24/结合Normalization和Whitening-SW-Switchable-Whitening-for-Deep-Representation-Learning/
