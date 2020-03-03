@@ -1,1 +1,1 @@
-http://muyaan.com/2020/02/24/结合Normalization和Whitening-SW-Switchable-Whitening-for-Deep-Representation-Learning/
+http://muyaan.com/2020/03/03/CVPR2020-华为诺亚方舟，超越MobileNetv3的GhostNet/
