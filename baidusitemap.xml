@@ -4,6 +4,29 @@
 
     
   <url>
+    <loc>http://muyaan.com/2020/03/16/CVPR2020-%E4%BA%BA%E8%84%B8%E8%A1%A8%E6%83%85%E8%AF%86%E5%88%AB-SCN%E8%87%AA%E6%84%88%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2020-03-16T02:00:20.827Z</lastmod>
+    <data>
+        <display>
+        <title>CVPR2020 人脸表情识别 SCN自愈网络</title>
+        <pubTime>2020-03-16T01:59:02.000Z</pubTime>
+        
+        <tag>Computer Vision</tag>
+         
+        <tag>Deep Learning</tag>
+         
+        <tag>Facial Expression Recognition</tag>
+         
+        <tag>SCN</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://muyaan.com/2020/03/03/CVPR2020-%E5%8D%8E%E4%B8%BA%E8%AF%BA%E4%BA%9A%E6%96%B9%E8%88%9F%EF%BC%8C%E8%B6%85%E8%B6%8AMobileNetv3%E7%9A%84GhostNet/</loc>
     <lastmod>2020-03-03T09:10:33.578Z</lastmod>
     <data>
@@ -590,11 +613,11 @@
          
         <tag>Paper</tag>
          
-        <tag>Crowd Counting</tag>
-         
         <tag>ADCrowdNet</tag>
          
         <tag>Crowd Understanding</tag>
+         
+        <tag>Crowd Counting</tag>
          
         <tag>Attention</tag>
          
@@ -1026,11 +1049,11 @@
          
         <tag>Paper</tag>
          
-        <tag>Crowd Counting</tag>
-         
         <tag>ADCrowdNet</tag>
          
         <tag>Crowd Understanding</tag>
+         
+        <tag>Crowd Counting</tag>
          
         <tag>SFCN</tag>
          
@@ -1059,11 +1082,11 @@
          
         <tag>Paper</tag>
          
+        <tag>Crowd Counting</tag>
+         
         <tag>PSDDN</tag>
          
         <tag>Crowd Detection</tag>
-         
-        <tag>Crowd Counting</tag>
          
          
            
