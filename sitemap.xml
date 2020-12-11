@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://muyaan.com/about/index.html</loc>
+    
+    <lastmod>2020-11-13T03:03:07.089Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://muyaan.com/2020/10/19/%E6%8B%96%E6%9B%B4%E7%9A%84%E4%BA%8C%E5%91%A8%E5%B9%B4/</loc>
     
-    <lastmod>2020-10-19T09:10:58.459Z</lastmod>
+    <lastmod>2020-11-12T02:28:20.411Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>http://muyaan.com/2020/03/03/CVPR2020-%E5%8D%8E%E4%B8%BA%E8%AF%BA%E4%BA%9A%E6%96%B9%E8%88%9F%EF%BC%8C%E8%B6%85%E8%B6%8AMobileNetv3%E7%9A%84GhostNet/</loc>
     
     <lastmod>2020-03-03T09:10:33.578Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://muyaan.com/about/index.html</loc>
-    
-    <lastmod>2020-02-25T03:22:19.316Z</lastmod>
     
   </url>
   

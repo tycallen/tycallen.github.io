@@ -3,9 +3,10 @@
 
 
     
+    
   <url>
     <loc>http://muyaan.com/2020/10/19/%E6%8B%96%E6%9B%B4%E7%9A%84%E4%BA%8C%E5%91%A8%E5%B9%B4/</loc>
-    <lastmod>2020-10-19T09:10:58.459Z</lastmod>
+    <lastmod>2020-11-12T02:28:20.411Z</lastmod>
     <data>
         <display>
         <title>拖更的二周年</title>
@@ -72,7 +73,6 @@
     </url>
 
     
-    
   <url>
     <loc>http://muyaan.com/2020/02/24/%E7%BB%93%E5%90%88Normalization%E5%92%8CWhitening-SW-Switchable-Whitening-for-Deep-Representation-Learning/</loc>
     <lastmod>2020-02-25T02:58:02.585Z</lastmod>
@@ -89,9 +89,9 @@
          
         <tag>IN</tag>
          
-        <tag>IBN-Net</tag>
-         
         <tag>LN</tag>
+         
+        <tag>IBN-Net</tag>
          
         <tag>Whitening</tag>
          
@@ -630,11 +630,11 @@
          
         <tag>Paper</tag>
          
-        <tag>Crowd Counting</tag>
-         
         <tag>ADCrowdNet</tag>
          
         <tag>Crowd Understanding</tag>
+         
+        <tag>Crowd Counting</tag>
          
         <tag>Attention</tag>
          
@@ -1066,11 +1066,11 @@
          
         <tag>Paper</tag>
          
-        <tag>Crowd Counting</tag>
-         
         <tag>ADCrowdNet</tag>
          
         <tag>Crowd Understanding</tag>
+         
+        <tag>Crowd Counting</tag>
          
         <tag>SFCN</tag>
          
@@ -1099,11 +1099,11 @@
          
         <tag>Paper</tag>
          
+        <tag>Crowd Counting</tag>
+         
         <tag>PSDDN</tag>
          
         <tag>Crowd Detection</tag>
-         
-        <tag>Crowd Counting</tag>
          
          
            
@@ -1240,9 +1240,9 @@
          
         <tag>Paper</tag>
          
-        <tag>ResNeXt</tag>
-         
         <tag>Image Classification</tag>
+         
+        <tag>ResNeXt</tag>
          
          
            
